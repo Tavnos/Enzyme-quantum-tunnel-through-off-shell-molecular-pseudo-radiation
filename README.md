@@ -1,7 +1,11 @@
 # Enzyme-quantum-tunnel-through-off-shell-molecular-pseudo-radiation
-three evidence levels: established (enzyme tunneling, electrostatic steering, conformational ensembles), proposed (approach-dependent population bias toward tunneling-ready substates), and speculative extension (coupling that microscopic state to transcriptional regulation).
+- three evidence levels:
+  a) established (enzyme tunneling, electrostatic steering, conformational ensembles).
+  b) proposed (approach-dependent population bias toward tunneling-ready substates)
+  c) speculative extension (coupling that microscopic state to transcriptional regulation).
 
-Abstract
+Abstract:
+
 Quantum mechanical tunneling contributes measurably to selected enzyme-catalyzed hydrogen- and
 electron-transfer reactions, while electrostatic steering, electrostatic preorganization, protein
 dynamics, and conformational selection independently shape molecular recognition and catalytic
