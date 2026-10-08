@@ -1,8 +1,19 @@
 # Enzyme-quantum-tunnel-through-off-shell-molecular-pseudo-radiation
-- three evidence levels:
+A paper that attempts to answer this problem:
+"Can an approaching substrate meaningfully alter an enzyme's conformational probability distribution before binding, 
+ or does the effect occur only once a transient encounter complex has formed?"
+
+three evidence levels:
   a) established (enzyme tunneling, electrostatic steering, conformational ensembles).
   b) proposed (approach-dependent population bias toward tunneling-ready substates)
   c) speculative extension (coupling that microscopic state to transcriptional regulation).
+
+The quick post-conclusion:
+"the proposed effect must be fast enough to occur during molecular approach."
+
+At physiological ionic strength, electrostatic interactions are strongly screened. 
+A freely diffusing substrate may spend only nanoseconds near the enzyme before contact or escape, 
+ whereas some protein conformational changes take microseconds or longer.
 
 Abstract:
 
